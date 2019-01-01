@@ -53,3 +53,12 @@ Java, Kotlin and more
 1. Git
 2. Mercurial
 
+## Software for team communication
+1. [Slack]()
+2. Monday()
+3. Q.()
+4. Mattermost()
+5. Wickr Pro()
+6. Circuit()
+7. Zulip()
+
