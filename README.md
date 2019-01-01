@@ -18,16 +18,25 @@ Free
 
 ## IDE (integrated development environment)
 1. [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
+
 ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual F#, XAML and more
 
 2. [NetBeans](https://netbeans.org/)
+
 C, C++, C++11, Fortan, HTML 5, Java, PHP and more
 
 3. [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+
 AngularJS, CoffeeScript, CS, HTML, JavaScript, LESS, Node JS, PHP, Python, Ruby, Sass, TypeScript and more
 
 4. [Eclipse](https://www.eclipse.org/)
+
 C, C++, Java, Perl, PHP, Python, Ruby and more
 
 5. [Xcode](https://developer.apple.com/xcode/)
+
 AppleScript, C, C++, Java, Objective-C
+
+6. [Android Studio](https://developer.android.com/studio/)
+
+Java, Kotlin and more
