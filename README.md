@@ -1,14 +1,16 @@
 # Must Have Developer Programs
 ## Code-Editor
-Sublime Text 3 Licence: www.bit.ly/sublimetext3key
+[Sublime Text 3](https://www.sublimetext.com/)
+Licence: www.bit.ly/sublimetext3key
 
-Visual Studio Code
+[Visual Studio Code](https://code.visualstudio.com/)
+Free
 
-Atom
+[Atom](https://atom.io/)
 
-Brackets
+[Brackets](https://brackets.io)
 
-Notepad++
+[Notepad++](https://notepad-plus-plus.org/)
 
 ## IDE (integrated development environment)
 1. Microsoft Visual Studio
@@ -22,3 +24,6 @@ AngularJS, CoffeeScript, CS, HTML, JavaScript, LESS, Node JS, PHP, Python, Ruby,
 
 4. Eclipse
 C, C++, Java, Perl, PHP, Python, Ruby and more
+
+5. Xcode
+AppleScript, C, C++, Java, Objective-C
