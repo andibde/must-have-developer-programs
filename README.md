@@ -40,3 +40,16 @@ AppleScript, C, C++, Java, Objective-C
 6. [Android Studio](https://developer.android.com/studio/)
 
 Java, Kotlin and more
+
+## Terminals
+1. [Windows built-in terminal (cmd)](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cmd)
+2. [Hyper](https://hyper.is/)
+
+### Version Control Systems
+1. GitHub
+2. GitLab
+3. Beanstalk
+### Version Control
+1. Git
+2. Mercurial
+
