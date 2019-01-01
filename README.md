@@ -1,9 +1,13 @@
 # Must Have Developer Programs
 ## Code-Editor
 Sublime Text 3 Licence: www.bit.ly/sublimetext3key
+
 Visual Studio Code
+
 Atom
+
 Brackets
+
 Notepad++
 
 ## IDE (integrated development environment)
