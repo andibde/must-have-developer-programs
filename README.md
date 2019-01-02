@@ -69,5 +69,5 @@ Java, Kotlin and more
 Licence: www.bit.ly/balsamiqkey
 
 2. [Photopea](https://www.photopea.com/)
-Photopea is a photoshop web alternative
+is a photoshop web alternative
 
