@@ -54,11 +54,11 @@ Java, Kotlin and more
 2. Mercurial
 
 ## Software for team communication
-1. [Slack]()
-2. Monday()
-3. Q.()
-4. Mattermost()
-5. Wickr Pro()
-6. Circuit()
-7. Zulip()
+1. [Slack](https://slack.com)
+2. [Monday](https://monday.com)
+3. [Q.](https://www.meetq.ai)
+4. [Mattermost](https://mattermost.com/)
+5. [Wickr Pro]]](https://wickr.com/products/teams/)
+6. [[Circuit]](https://www.circuit.com/de)
+7. [Zulip](https://zulipchat.com/)
 
