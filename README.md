@@ -59,6 +59,6 @@ Java, Kotlin and more
 3. [Q.](https://www.meetq.ai)
 4. [Mattermost](https://mattermost.com/)
 5. [Wickr Pro](https://wickr.com/products/teams/)
-6. [[Circuit]](https://www.circuit.com/de)
+6. [Circuit](https://www.circuit.com/de)
 7. [Zulip](https://zulipchat.com/)
 
