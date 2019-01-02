@@ -62,3 +62,11 @@ Java, Kotlin and more
 6. [Circuit](https://www.circuit.com/de)
 7. [Zulip](https://zulipchat.com/)
 
+## Design
+
+1. [Balsamiq](https://balsamiq.com/)
+Licence: www.bit.ly/balsamiqkey
+
+2. [Photopea](https://www.photopea.com/)
+Photopea is a photoshop web alternative
+
