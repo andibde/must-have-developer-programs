@@ -46,12 +46,12 @@ Java, Kotlin and more
 2. [Hyper](https://hyper.is/)
 
 ### Version Control Systems
-1. GitHub
-2. GitLab
-3. Beanstalk
+1. [GitHub](https://github.com/)
+2. [GitLab](https://gitlab.com)
+3. [Beanstalk](https://beanstalkapp.com/)
 ### Version Control
-1. Git
-2. Mercurial
+1. [Git](https://git-scm.com/)
+2. [Mercurial](https://www.mercurial-scm.org/)
 
 ## Software for team communication
 1. [Slack](https://slack.com)
