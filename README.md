@@ -1,4 +1,9 @@
 # Must Have Developer Programs
+## Must Haves
+Microsoft Office
+Skype
+HTTrack
+
 ## Code-Editor
 [Sublime Text 3](https://www.sublimetext.com/)
 
@@ -70,4 +75,7 @@ Licence: www.bit.ly/balsamiqkey
 
 2. [Photopea](https://www.photopea.com/)
 is a photoshop web alternative
+
+## Cloud
+OneDrive
 
