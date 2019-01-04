@@ -1,4 +1,5 @@
 # Must Have Developer Programs
+You also can read this on [Medium](https://medium.com/@andib./must-have-developer-programs-4823ef7f8387)
 ## Must Haves
 [Microsoft Office](https://products.office.com/home/)
 
