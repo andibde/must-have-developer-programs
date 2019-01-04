@@ -1,13 +1,15 @@
 # Must Have Developer Programs
 ## Must Haves
-Microsoft Office
-Skype
-HTTrack
+[Microsoft Office](https://products.office.com/home/)
+
+[Skype](https://www.skype.com/)
+
+[HTTrack](https://www.httrack.com/)
 
 ## Code-Editor
 [Sublime Text 3](https://www.sublimetext.com/)
 
-Licence: www.bit.ly/sublimetext3key
+Licence: Just search yourself.
 
 [Visual Studio Code](https://code.visualstudio.com/)
 Free
@@ -47,7 +49,7 @@ AppleScript, C, C++, Java, Objective-C
 Java, Kotlin and more
 
 ## Terminals
-1. [Windows built-in terminal (cmd)](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cmd)
+1. [Windows built-in terminal (cmd)](https://docs.microsoft.com/windows-server/administration/windows-commands/cmd)
 2. [Hyper](https://hyper.is/)
 
 ### Version Control Systems
@@ -71,11 +73,13 @@ Java, Kotlin and more
 
 1. [Balsamiq](https://balsamiq.com/)
 
-Licence: www.bit.ly/balsamiqkey
+Licence: Just search yourself.
 
 2. [Photopea](https://www.photopea.com/)
 is a photoshop web alternative
 
 ## Cloud
-OneDrive
+[OneDrive](https://products.office.com/onedrive-for-business/)
+[Google Drive](https://drive.google.com/)
+
 
