@@ -8,8 +8,7 @@
 
 ## Code-Editor
 [Sublime Text 3](https://www.sublimetext.com/)
-
-Licence: Just search yourself.
+Paid
 
 [Visual Studio Code](https://code.visualstudio.com/)
 Free
@@ -73,7 +72,6 @@ Java, Kotlin and more
 
 1. [Balsamiq](https://balsamiq.com/)
 
-Licence: Just search yourself.
 
 2. [Photopea](https://www.photopea.com/)
 is a photoshop web alternative
