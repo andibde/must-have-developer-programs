@@ -78,8 +78,8 @@ Java, Kotlin and more
 is a photoshop web alternative
 
 ## Cloud
-[OneDrive](https://products.office.com/onedrive-for-business/)
+1. [OneDrive](https://products.office.com/onedrive-for-business/)
 
-[Google Drive](https://drive.google.com/)
+2. [Google Drive](https://drive.google.com/)
 
 
